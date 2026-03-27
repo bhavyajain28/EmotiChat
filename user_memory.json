@@ -1,0 +1,15 @@
+{
+    "joy": [
+        "hello today i won match"
+    ],
+    "neutral": [
+        "khush",
+        "mujhe chot lg gyi aaj",
+        "dukhi",
+        "hello",
+        "mereko chot lg gyi"
+    ],
+    "anger": [
+        "i won a match"
+    ]
+}

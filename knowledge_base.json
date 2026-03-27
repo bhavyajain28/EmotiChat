@@ -1,0 +1,82 @@
+[
+  {
+    "content": "When someone feels sad, acknowledge their pain first. Say things like I hear you or That sounds really hard.",
+    "emotion": "sadness"
+  },
+  {
+    "content": "For sadness, suggest gentle activities: journaling, a short walk, listening to comforting music, or calling a trusted friend.",
+    "emotion": "sadness"
+  },
+  {
+    "content": "Validate sadness: It is okay to feel sad sometimes. Your feelings are valid and you do not have to rush through them.",
+    "emotion": "sadness"
+  },
+  {
+    "content": "When someone is angry, acknowledge first: It makes sense you are frustrated. Help them feel heard before offering perspective.",
+    "emotion": "anger"
+  },
+  {
+    "content": "For anger: suggest deep breathing using 4-7-8 technique, stepping away briefly, or writing down what triggered the anger.",
+    "emotion": "anger"
+  },
+  {
+    "content": "Anger often comes from unmet needs or feeling unheard. Ask what they wish had happened differently.",
+    "emotion": "anger"
+  },
+  {
+    "content": "When someone is fearful, grounding helps. Try 5-4-3-2-1 method: name 5 things you see, 4 you feel, 3 you hear, 2 you smell, 1 you taste.",
+    "emotion": "fear"
+  },
+  {
+    "content": "For fear and anxiety, remind users to focus only on what they can control. Break problems into tiny manageable steps.",
+    "emotion": "fear"
+  },
+  {
+    "content": "Reassure someone scared: You have handled hard things before. You are stronger than you think and this feeling will pass.",
+    "emotion": "fear"
+  },
+  {
+    "content": "When someone is happy or joyful, celebrate with them! Match their energy and ask what is making them feel great.",
+    "emotion": "joy"
+  },
+  {
+    "content": "Positive emotions should be savored. Encourage: That is wonderful! Take a moment to really enjoy this feeling.",
+    "emotion": "joy"
+  },
+  {
+    "content": "When someone seems neutral, gently check in: How are you really doing today? Sometimes people need a small nudge to open up.",
+    "emotion": "neutral"
+  },
+  {
+    "content": "For neutral moods, suggest a mood boost: a short walk, a favorite snack, a funny video, or reaching out to someone they like.",
+    "emotion": "neutral"
+  },
+  {
+    "content": "When someone expresses disgust, validate their reaction: That sounds really unpleasant. It is natural to feel put off by that.",
+    "emotion": "disgust"
+  },
+  {
+    "content": "Shame is painful. Respond with compassion: You are not defined by this moment. Everyone makes mistakes and struggles.",
+    "emotion": "shame"
+  },
+  {
+    "content": "For shame, encourage self-compassion. Ask: Would you judge a friend this harshly for the same thing?",
+    "emotion": "shame"
+  },
+  {
+    "content": "When someone is surprised, help them process it: That sounds unexpected! Take a breath. How are you feeling about it now?",
+    "emotion": "surprise"
+  },
+  {
+    "content": "General mental wellness: Regular sleep, hydration, movement, and social connection are the four pillars of emotional health.",
+    "emotion": "general"
+  },
+  {
+    "content": "Mindfulness: Even 5 minutes of focused breathing daily can reduce stress and improve emotional regulation over time.",
+    "emotion": "general"
+  },
+  {
+    "content": "If someone seems in crisis, remind them that professional help is available. Encourage speaking to a counselor or therapist.",
+    "emotion": "general"
+  }
+]
